@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Welcome</title>
+</head>
+<body>
+    <h1>Welcome to Taco Cloud!</h1>
+    <div th:insert="~{fragments/insertion :: insertion}"></div>
+    <p>This is the home page of your client application.</p>
+    <p><a th:href="@{/oauth2/authorization/client2}">Login</a></p>
+</body>
+</html>

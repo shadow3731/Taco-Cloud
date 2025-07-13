@@ -1,0 +1,12 @@
+<form method="post" th:action="@{/oauth2/authorize}">
+  <input type="hidden" name="client_id" th:value="${clientId}" />
+  <input type="hidden" name="state" th:value="${state}" />
+  <input type="hidden" name="redirect_uri" th:if="${redirectUri != null}" th:value="${redirectUri}" />
+
+  <th:block th:each="s : ${scopes}">
+    <input type="hidden" name="scope" th:value="${s}" />
+  </th:block>
+
+  <button type="submit" name="consent_action" value="approve">Approve</button>
+  <button type="submit" name="consent_action" value="deny">Deny</button>
+</form>

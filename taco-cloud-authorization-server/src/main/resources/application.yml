@@ -1,0 +1,18 @@
+server:
+    port: 8082
+
+spring:
+    application:
+        name: taco-cloud-authorization-server
+
+    datasource:
+        generate-unique-name: false
+        name: tacocloud
+        url: jdbc:mysql://localhost:3306/tacocloud?allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=UTC
+        username: root
+        password: root
+
+    jpa:
+        hibernate:
+            ddl-auto: update
+        database-platform: org.hibernate.dialect.MySQLDialect
