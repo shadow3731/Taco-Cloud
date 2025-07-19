@@ -3815,3 +3815,412 @@ Unconditional classes:
 2025-07-19 19:42:10 DEBUG o.s.b.a.ApplicationAvailabilityBean - Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
 2025-07-19 19:42:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
 2025-07-19 19:42:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:43:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:43:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:43:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:43:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:43:41 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 19:43:45 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 19:43:47 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 19:43:53 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 19:43:54 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 19:43:56 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 19:44:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6b554f2b is alive
+2025-07-19 19:44:02 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 19:44:02 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8 is alive
+2025-07-19 19:44:04 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 19:44:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:44:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:44:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:44:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:45:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:45:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:45:18 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 19:45:25 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 19:45:29 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 19:45:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:45:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:45:42 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 19:45:44 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 19:45:47 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 19:45:55 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6b554f2b is alive
+2025-07-19 19:45:59 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 19:45:59 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8 is alive
+2025-07-19 19:46:03 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 19:46:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:46:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:46:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:46:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:46:55 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 19:47:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:47:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:47:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 19:47:12 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 19:47:31 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 19:47:34 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 19:47:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:47:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:47:39 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 19:47:50 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6b554f2b is alive
+2025-07-19 19:47:56 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 19:47:57 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8 is alive
+2025-07-19 19:48:02 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 19:48:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:48:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:48:32 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 19:48:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:48:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:48:45 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 19:48:54 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 19:49:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:49:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:49:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 19:49:23 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 19:49:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 19:49:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:49:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:49:45 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6b554f2b is alive
+2025-07-19 19:49:53 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 19:49:54 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8 is alive
+2025-07-19 19:50:01 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 19:50:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:50:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:50:08 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 19:50:26 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 19:50:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:50:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:50:36 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 19:51:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:51:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:51:08 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 19:51:13 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 19:51:22 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 19:51:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:51:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:51:40 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6b554f2b is alive
+2025-07-19 19:51:45 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 19:51:50 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 19:51:51 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8 is alive
+2025-07-19 19:52:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 19:52:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:52:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:52:06 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 19:52:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 19:52:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:52:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:52:57 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 19:53:02 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 19:53:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:53:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:53:13 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 19:53:22 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 19:53:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:53:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:53:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6b554f2b is alive
+2025-07-19 19:53:46 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 19:53:48 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 19:53:48 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8 is alive
+2025-07-19 19:53:59 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 19:54:01 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 19:54:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:54:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:54:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:54:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:54:45 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 19:54:52 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 19:54:59 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 19:55:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 19:55:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:55:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:55:26 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 19:55:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6b554f2b is alive
+2025-07-19 19:55:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:55:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:55:43 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 19:55:45 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 19:55:46 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8 is alive
+2025-07-19 19:55:58 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 19:56:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:56:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:56:34 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 19:56:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:56:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:56:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 19:56:42 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 19:56:56 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 19:57:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:57:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:57:06 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 19:57:25 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6b554f2b is alive
+2025-07-19 19:57:26 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 19:57:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:57:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:57:42 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 19:57:43 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8 is alive
+2025-07-19 19:57:57 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 19:58:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:58:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:58:12 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 19:58:23 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 19:58:31 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 19:58:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:58:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:58:46 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 19:58:47 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 19:59:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:59:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:59:08 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 19:59:20 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6b554f2b is alive
+2025-07-19 19:59:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 19:59:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 19:59:39 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 19:59:40 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8 is alive
+2025-07-19 19:59:49 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 19:59:56 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 20:00:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:00:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:00:11 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 20:00:21 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 20:00:26 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 20:00:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:00:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:00:39 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 20:00:51 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 20:01:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:01:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:01:15 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6b554f2b is alive
+2025-07-19 20:01:26 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 20:01:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:01:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:01:36 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 20:01:38 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8 is alive
+2025-07-19 20:01:55 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 20:02:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 20:02:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:02:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:02:07 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 20:02:11 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 20:02:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 20:02:33 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 20:02:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:02:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:03:02 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 20:03:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:03:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:03:10 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6b554f2b is alive
+2025-07-19 20:03:33 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 20:03:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:03:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:03:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8 is alive
+2025-07-19 20:03:47 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 20:03:49 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 20:03:54 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 20:04:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 20:04:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:04:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:04:15 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 20:04:22 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 20:04:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:04:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:04:39 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 20:05:00 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6b554f2b: (connection has passed maxLifetime)
+2025-07-19 20:05:00 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (d50d9514-9265-4310-a5cc-501d7cb5111a)
+2025-07-19 20:05:00 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (d50d9514-9265-4310-a5cc-501d7cb5111a)
+2025-07-19 20:05:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@157c3fc9
+2025-07-19 20:05:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:05:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:05:27 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46739386 is alive
+2025-07-19 20:05:31 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 20:05:32 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8 is alive
+2025-07-19 20:05:33 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@562b00a8: (connection has passed maxLifetime)
+2025-07-19 20:05:33 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (288ec65e-b1af-471e-8e46-53d72ff77403)
+2025-07-19 20:05:33 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (288ec65e-b1af-471e-8e46-53d72ff77403)
+2025-07-19 20:05:33 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@731d33ef
+2025-07-19 20:05:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:05:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:05:37 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6 is alive
+2025-07-19 20:05:50 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 20:05:53 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 20:05:58 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8 is alive
+2025-07-19 20:06:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:06:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:06:13 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 20:06:16 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 20:06:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:06:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:06:39 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@157c3fc9 is alive
+2025-07-19 20:06:46 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@46739386: (connection has passed maxLifetime)
+2025-07-19 20:06:46 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (9ff42be8-7a13-4df3-ab66-553bd0bc20ef)
+2025-07-19 20:06:46 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (9ff42be8-7a13-4df3-ab66-553bd0bc20ef)
+2025-07-19 20:06:46 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@4d79a585
+2025-07-19 20:06:59 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@aa326b8: (connection has passed maxLifetime)
+2025-07-19 20:06:59 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (70bd1652-8c45-40b1-a952-7f1b1bb1f592)
+2025-07-19 20:06:59 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (70bd1652-8c45-40b1-a952-7f1b1bb1f592)
+2025-07-19 20:06:59 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@42c0bc20
+2025-07-19 20:07:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:07:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:07:10 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3a3bbeb6: (connection has passed maxLifetime)
+2025-07-19 20:07:10 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (6238e61b-67e0-4cf6-80af-9133c48de44d)
+2025-07-19 20:07:10 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (6238e61b-67e0-4cf6-80af-9133c48de44d)
+2025-07-19 20:07:10 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@6cdec864
+2025-07-19 20:07:17 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@731d33ef is alive
+2025-07-19 20:07:28 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 20:07:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:07:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:07:39 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 20:07:52 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b is alive
+2025-07-19 20:07:52 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 20:08:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 20:08:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:08:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:08:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@157c3fc9 is alive
+2025-07-19 20:08:28 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4d79a585 is alive
+2025-07-19 20:08:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:08:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:08:46 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@42c0bc20 is alive
+2025-07-19 20:08:48 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6cdec864 is alive
+2025-07-19 20:09:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@731d33ef is alive
+2025-07-19 20:09:02 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@279c4e3b: (connection has passed maxLifetime)
+2025-07-19 20:09:02 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (7d09e5a8-aa21-49aa-b06c-4c53ccfe35eb)
+2025-07-19 20:09:02 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (7d09e5a8-aa21-49aa-b06c-4c53ccfe35eb)
+2025-07-19 20:09:02 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@1afa1df8
+2025-07-19 20:09:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:09:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:09:25 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 20:09:29 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9 is alive
+2025-07-19 20:09:29 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7 is alive
+2025-07-19 20:09:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:09:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:09:56 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 20:09:59 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@157c3fc9 is alive
+2025-07-19 20:10:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:10:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:10:10 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4d79a585 is alive
+2025-07-19 20:10:27 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6f1bd0c7: (connection has passed maxLifetime)
+2025-07-19 20:10:27 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (c5582bd6-ac3a-41ec-b430-bfde7f580ca5)
+2025-07-19 20:10:27 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (c5582bd6-ac3a-41ec-b430-bfde7f580ca5)
+2025-07-19 20:10:27 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@79858876
+2025-07-19 20:10:27 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6cdec864 is alive
+2025-07-19 20:10:33 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@42c0bc20 is alive
+2025-07-19 20:10:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:10:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:10:39 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6ec1b4e9: (connection has passed maxLifetime)
+2025-07-19 20:10:39 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (b5a8e569-bff0-42cc-9dd9-aa190615191c)
+2025-07-19 20:10:39 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (b5a8e569-bff0-42cc-9dd9-aa190615191c)
+2025-07-19 20:10:39 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@3823deb9
+2025-07-19 20:10:43 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@731d33ef is alive
+2025-07-19 20:10:52 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1afa1df8 is alive
+2025-07-19 20:11:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:11:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:11:22 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f is alive
+2025-07-19 20:11:25 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4a47ba5f: (connection has passed maxLifetime)
+2025-07-19 20:11:25 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (f2000ce6-2a1a-4a32-9e08-4ab3f93c112e)
+2025-07-19 20:11:25 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (f2000ce6-2a1a-4a32-9e08-4ab3f93c112e)
+2025-07-19 20:11:25 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d879806
+2025-07-19 20:11:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:11:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:11:39 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@157c3fc9 is alive
+2025-07-19 20:11:47 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064 is alive
+2025-07-19 20:11:52 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4d79a585 is alive
+2025-07-19 20:11:52 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@b7ab064: (connection has passed maxLifetime)
+2025-07-19 20:11:52 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (7a264fc7-bc10-4ec3-808c-e2f7ce166527)
+2025-07-19 20:11:52 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (7a264fc7-bc10-4ec3-808c-e2f7ce166527)
+2025-07-19 20:11:52 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@774db8cf
+2025-07-19 20:12:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:12:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:12:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6cdec864 is alive
+2025-07-19 20:12:08 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@79858876 is alive
+2025-07-19 20:12:16 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3823deb9 is alive
+2025-07-19 20:12:20 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@42c0bc20 is alive
+2025-07-19 20:12:27 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@731d33ef is alive
+2025-07-19 20:12:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:12:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:12:41 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1afa1df8 is alive
+2025-07-19 20:13:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:13:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:13:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@157c3fc9 is alive
+2025-07-19 20:13:25 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d879806 is alive
+2025-07-19 20:13:31 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@774db8cf is alive
+2025-07-19 20:13:34 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4d79a585 is alive
+2025-07-19 20:13:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:13:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:13:44 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6cdec864 is alive
+2025-07-19 20:13:49 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@79858876 is alive
+2025-07-19 20:13:53 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3823deb9 is alive
+2025-07-19 20:14:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:14:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:14:08 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@42c0bc20 is alive
+2025-07-19 20:14:10 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@731d33ef is alive
+2025-07-19 20:14:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1afa1df8 is alive
+2025-07-19 20:14:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:14:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:14:59 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@157c3fc9 is alive
+2025-07-19 20:15:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:15:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:15:09 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@774db8cf is alive
+2025-07-19 20:15:16 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4d79a585 is alive
+2025-07-19 20:15:22 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6cdec864 is alive
+2025-07-19 20:15:24 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d879806 is alive
+2025-07-19 20:15:31 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3823deb9 is alive
+2025-07-19 20:15:31 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@79858876 is alive
+2025-07-19 20:15:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:15:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:15:53 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@731d33ef is alive
+2025-07-19 20:15:55 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@42c0bc20 is alive
+2025-07-19 20:16:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:16:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:16:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1afa1df8 is alive
+2025-07-19 20:16:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:16:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:16:39 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@157c3fc9 is alive
+2025-07-19 20:16:48 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@774db8cf is alive
+2025-07-19 20:16:58 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4d79a585 is alive
+2025-07-19 20:17:01 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6cdec864 is alive
+2025-07-19 20:17:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:17:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:17:08 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3823deb9 is alive
+2025-07-19 20:17:12 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@79858876 is alive
+2025-07-19 20:17:24 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d879806 is alive
+2025-07-19 20:17:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:17:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:17:37 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@731d33ef is alive
+2025-07-19 20:17:42 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@42c0bc20 is alive
+2025-07-19 20:18:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:18:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:18:09 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1afa1df8 is alive
+2025-07-19 20:18:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@157c3fc9 is alive
+2025-07-19 20:18:26 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@774db8cf is alive
+2025-07-19 20:18:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:18:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:18:39 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6cdec864 is alive
+2025-07-19 20:18:40 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4d79a585 is alive
+2025-07-19 20:18:45 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3823deb9 is alive
+2025-07-19 20:18:54 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@79858876 is alive
+2025-07-19 20:19:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:19:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:19:20 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@731d33ef is alive
+2025-07-19 20:19:23 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d879806 is alive
+2025-07-19 20:19:29 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@42c0bc20 is alive
+2025-07-19 20:19:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:19:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:19:58 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1afa1df8 is alive
+2025-07-19 20:19:59 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@157c3fc9 is alive
+2025-07-19 20:20:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:20:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:20:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@774db8cf is alive
+2025-07-19 20:20:18 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6cdec864 is alive
+2025-07-19 20:20:22 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4d79a585 is alive
+2025-07-19 20:20:23 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3823deb9 is alive
+2025-07-19 20:20:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:20:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:20:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@79858876 is alive
+2025-07-19 20:21:03 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@731d33ef is alive
+2025-07-19 20:21:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:21:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:21:17 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@42c0bc20 is alive
+2025-07-19 20:21:23 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@3d879806 is alive
+2025-07-19 20:21:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:21:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:21:39 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@157c3fc9 is alive
+2025-07-19 20:21:44 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@774db8cf is alive
+2025-07-19 20:21:47 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1afa1df8 is alive

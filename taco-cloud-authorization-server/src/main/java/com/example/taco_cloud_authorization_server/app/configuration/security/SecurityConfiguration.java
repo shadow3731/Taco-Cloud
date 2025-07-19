@@ -3,6 +3,7 @@ package com.example.taco_cloud_authorization_server.app.configuration.security;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.annotation.Order;
+import org.springframework.security.config.Customizer;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.core.userdetails.UserDetailsService;
@@ -24,9 +25,7 @@ public class SecurityConfiguration {
                 .requestMatchers("/" + Urls.LOGIN.get(), "/" + Urls.REGISTER.get(), "/css/**", "/jss/**", "/images/**").permitAll()
                 .anyRequest().authenticated()
             )
-            .formLogin(login -> login
-                .loginPage("/" + Urls.LOGIN.get()).permitAll()
-            )
+            .formLogin(Customizer.withDefaults())
             .build();
     }
 

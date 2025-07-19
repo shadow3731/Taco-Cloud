@@ -46,7 +46,9 @@ public class AuthorizationServerConfiguration {
     @Order(1)
     SecurityFilterChain authServerSecurityFilterChain(HttpSecurity http) throws Exception {
         OAuth2AuthorizationServerConfigurer configurer = OAuth2AuthorizationServerConfigurer.authorizationServer();
-        configurer.authorizationEndpoint(_ -> {});
+        configurer.authorizationEndpoint(auth -> auth
+            .consentPage(null)
+        );
 
         return http
             .securityMatcher(configurer.getEndpointsMatcher())
@@ -74,6 +76,8 @@ public class AuthorizationServerConfiguration {
                 Optional<Client> client = clientRepo.findByClientId(clientId);
                 if (!client.isPresent()) return null;
 
+                String redirectUri = Urls.CLIENT_HOST.get() + "/" + Urls.LOGIN.get() + "/" + Urls.OAUTH2.get() + "/" + Urls.CODE.get() + "/" + client.get().getClientId();
+
                 return RegisteredClient
                     .withId(client.get().getUuid())
                     .clientId(client.get().getClientId())
@@ -83,7 +87,7 @@ public class AuthorizationServerConfiguration {
                     .authorizationGrantType(AuthorizationGrantType.AUTHORIZATION_CODE)
                     .authorizationGrantType(AuthorizationGrantType.REFRESH_TOKEN)
                     .clientAuthenticationMethod(ClientAuthenticationMethod.CLIENT_SECRET_BASIC)
-                    .redirectUri(Urls.CLIENT_HOST.get() + "/" + Urls.LOGIN.get() + "/" + Urls.OAUTH2.get() + "/" + Urls.CODE.get() + "/" + client.get().getClientId())
+                    .redirectUri(redirectUri)
                     .postLogoutRedirectUri(Urls.CLIENT_HOST.get())
                     .tokenSettings(TokenSettings.builder()
                         .accessTokenTimeToLive(Duration.ofMinutes(15))
@@ -91,7 +95,7 @@ public class AuthorizationServerConfiguration {
                         .reuseRefreshTokens(true)
                         .build()
                     )
-                    .clientSettings(ClientSettings.builder().requireAuthorizationConsent(true).build())
+                    .clientSettings(ClientSettings.builder().requireAuthorizationConsent(false).build())
                     .build();
             }
 
@@ -102,9 +106,7 @@ public class AuthorizationServerConfiguration {
             }
 
             @Override
-            public void save(RegisteredClient registeredClient) {
-                
-            }
+            public void save(RegisteredClient registeredClient) {}
         };
     }
 
