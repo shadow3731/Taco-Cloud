@@ -6614,3 +6614,848 @@ Unconditional classes:
 2025-07-19 20:21:25 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@508a287b is alive
 2025-07-19 20:21:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
 2025-07-19 20:21:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:22:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:22:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:22:04 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ca41c1e is alive
+2025-07-19 20:22:12 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4567d77a is alive
+2025-07-19 20:22:16 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6186f78a is alive
+2025-07-19 20:22:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4c51ffed is alive
+2025-07-19 20:22:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:22:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:22:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4 is alive
+2025-07-19 20:23:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:23:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:23:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@53d87ca1 is alive
+2025-07-19 20:23:01 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@508a287b is alive
+2025-07-19 20:23:02 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24c25372 is alive
+2025-07-19 20:23:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@22e7962b is alive
+2025-07-19 20:23:13 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46dfe9ba is alive
+2025-07-19 20:23:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:23:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:23:51 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4567d77a is alive
+2025-07-19 20:23:58 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4c51ffed is alive
+2025-07-19 20:24:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:24:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:24:02 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ca41c1e is alive
+2025-07-19 20:24:13 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6186f78a is alive
+2025-07-19 20:24:22 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4 is alive
+2025-07-19 20:24:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:24:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:24:37 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@53d87ca1 is alive
+2025-07-19 20:24:38 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@508a287b is alive
+2025-07-19 20:24:48 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24c25372 is alive
+2025-07-19 20:24:57 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@22e7962b is alive
+2025-07-19 20:25:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:25:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:25:02 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46dfe9ba is alive
+2025-07-19 20:25:29 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4567d77a is alive
+2025-07-19 20:25:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:25:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:25:37 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4c51ffed is alive
+2025-07-19 20:26:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ca41c1e is alive
+2025-07-19 20:26:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:26:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:26:11 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6186f78a is alive
+2025-07-19 20:26:14 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4 is alive
+2025-07-19 20:26:14 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@53d87ca1 is alive
+2025-07-19 20:26:15 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@508a287b is alive
+2025-07-19 20:26:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:26:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:26:34 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24c25372 is alive
+2025-07-19 20:26:50 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@22e7962b is alive
+2025-07-19 20:26:52 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46dfe9ba is alive
+2025-07-19 20:27:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:27:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:27:08 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4567d77a is alive
+2025-07-19 20:27:16 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4c51ffed is alive
+2025-07-19 20:27:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:27:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:27:51 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@53d87ca1 is alive
+2025-07-19 20:27:52 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@508a287b is alive
+2025-07-19 20:27:57 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ca41c1e is alive
+2025-07-19 20:28:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:28:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:28:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4 is alive
+2025-07-19 20:28:08 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6186f78a is alive
+2025-07-19 20:28:20 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24c25372 is alive
+2025-07-19 20:28:26 DEBUG o.s.security.web.FilterChainProxy - Securing GET /
+2025-07-19 20:28:26 DEBUG o.s.security.web.FilterChainProxy - Secured GET /
+2025-07-19 20:28:26 DEBUG o.s.web.servlet.DispatcherServlet - GET "/", parameters={}
+2025-07-19 20:28:26 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ParameterizableViewController [view="home"]
+2025-07-19 20:28:26 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Opening JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:28:26 DEBUG o.s.w.s.v.ContentNegotiatingViewResolver - Selected 'text/html' given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8, application/signed-exchange;v=b3;q=0.7]
+2025-07-19 20:28:26 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Closing JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:28:26 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-19 20:28:26 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:28:26 DEBUG o.s.security.web.FilterChainProxy - Securing GET /images/Taco.png
+2025-07-19 20:28:26 DEBUG o.s.security.web.FilterChainProxy - Secured GET /images/Taco.png
+2025-07-19 20:28:26 DEBUG o.s.web.servlet.DispatcherServlet - GET "/images/Taco.png", parameters={}
+2025-07-19 20:28:26 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-19 20:28:26 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Opening JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:28:26 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Closing JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:28:26 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-19 20:28:26 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:28:26 DEBUG o.s.security.web.FilterChainProxy - Securing GET /favicon.ico
+2025-07-19 20:28:26 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:28:27 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2
+2025-07-19 20:28:27 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=LEbcVYtOUdQjOY1Qw2Idw4bh66tR4N1EfYgoOLHXxbw%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=PGsa82HqCfR6ZebOB55jFaTJ8MAry5NUt78RWLJB97s
+2025-07-19 20:28:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:28:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:28:41 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46dfe9ba is alive
+2025-07-19 20:28:43 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@22e7962b is alive
+2025-07-19 20:28:46 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4567d77a is alive
+2025-07-19 20:28:55 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4c51ffed is alive
+2025-07-19 20:29:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:29:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:29:28 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@53d87ca1 is alive
+2025-07-19 20:29:29 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@508a287b is alive
+2025-07-19 20:29:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:29:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:29:55 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ca41c1e is alive
+2025-07-19 20:29:57 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4 is alive
+2025-07-19 20:30:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:30:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:30:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6186f78a is alive
+2025-07-19 20:30:06 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24c25372 is alive
+2025-07-19 20:30:24 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4567d77a is alive
+2025-07-19 20:30:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:30:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:30:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46dfe9ba is alive
+2025-07-19 20:30:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4c51ffed is alive
+2025-07-19 20:30:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@22e7962b is alive
+2025-07-19 20:31:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:31:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:31:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@53d87ca1 is alive
+2025-07-19 20:31:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@508a287b is alive
+2025-07-19 20:31:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:31:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:31:49 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4 is alive
+2025-07-19 20:31:52 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24c25372 is alive
+2025-07-19 20:31:53 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ca41c1e is alive
+2025-07-19 20:32:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:32:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:32:02 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6186f78a is alive
+2025-07-19 20:32:03 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4567d77a is alive
+2025-07-19 20:32:14 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4c51ffed is alive
+2025-07-19 20:32:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46dfe9ba is alive
+2025-07-19 20:32:28 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@22e7962b is alive
+2025-07-19 20:32:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:32:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:32:42 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@53d87ca1 is alive
+2025-07-19 20:32:42 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@508a287b is alive
+2025-07-19 20:32:47 DEBUG o.s.security.web.FilterChainProxy - Securing GET /
+2025-07-19 20:32:47 DEBUG o.s.security.web.FilterChainProxy - Secured GET /
+2025-07-19 20:32:47 DEBUG o.s.web.servlet.DispatcherServlet - GET "/", parameters={}
+2025-07-19 20:32:47 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ParameterizableViewController [view="home"]
+2025-07-19 20:32:47 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Opening JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:32:47 DEBUG o.s.w.s.v.ContentNegotiatingViewResolver - Selected 'text/html' given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8, application/signed-exchange;v=b3;q=0.7]
+2025-07-19 20:32:48 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Closing JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:32:48 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-19 20:32:48 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:32:48 DEBUG o.s.security.web.FilterChainProxy - Securing GET /images/Taco.png
+2025-07-19 20:32:48 DEBUG o.s.security.web.FilterChainProxy - Secured GET /images/Taco.png
+2025-07-19 20:32:48 DEBUG o.s.web.servlet.DispatcherServlet - GET "/images/Taco.png", parameters={}
+2025-07-19 20:32:48 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-19 20:32:48 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Opening JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:32:48 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Closing JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:32:48 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-19 20:32:48 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:32:48 DEBUG o.s.security.web.FilterChainProxy - Securing GET /favicon.ico
+2025-07-19 20:32:48 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:32:49 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2
+2025-07-19 20:32:49 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=RiwODyagj8ocr8RQrlla1kI-nO6KcnxO-1pUlNjZ23k%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=DRszJhs1mKtlf6ShIbcVZt_u78L9gZbsl1R8kOoy5Cg
+2025-07-19 20:33:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:33:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:33:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:33:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:33:38 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24c25372 is alive
+2025-07-19 20:33:41 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4 is alive
+2025-07-19 20:33:41 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4567d77a is alive
+2025-07-19 20:33:51 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ca41c1e is alive
+2025-07-19 20:33:53 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4c51ffed is alive
+2025-07-19 20:34:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6186f78a is alive
+2025-07-19 20:34:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:34:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:34:09 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46dfe9ba is alive
+2025-07-19 20:34:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@53d87ca1 is alive
+2025-07-19 20:34:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@508a287b is alive
+2025-07-19 20:34:21 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@22e7962b is alive
+2025-07-19 20:34:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:34:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:35:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:35:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:35:17 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4567d77a: (connection has passed maxLifetime)
+2025-07-19 20:35:17 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (c4e184a3-d74a-4056-81b1-f5516805335b)
+2025-07-19 20:35:17 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (c4e184a3-d74a-4056-81b1-f5516805335b)
+2025-07-19 20:35:17 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@1234ce48
+2025-07-19 20:35:24 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24c25372 is alive
+2025-07-19 20:35:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:35:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:35:32 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4c51ffed is alive
+2025-07-19 20:35:32 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4 is alive
+2025-07-19 20:35:48 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ca41c1e is alive
+2025-07-19 20:35:55 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@53d87ca1 is alive
+2025-07-19 20:35:56 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@508a287b is alive
+2025-07-19 20:35:57 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6186f78a is alive
+2025-07-19 20:35:58 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46dfe9ba is alive
+2025-07-19 20:36:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:36:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:36:13 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@22e7962b is alive
+2025-07-19 20:36:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:36:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:36:52 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@508a287b: (connection has passed maxLifetime)
+2025-07-19 20:36:52 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (2dd68c35-187c-4813-8250-4861f6d16c8d)
+2025-07-19 20:36:52 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (2dd68c35-187c-4813-8250-4861f6d16c8d)
+2025-07-19 20:36:52 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@1df3f88
+2025-07-19 20:36:54 DEBUG o.s.security.web.FilterChainProxy - Securing GET /
+2025-07-19 20:36:54 DEBUG o.s.security.web.FilterChainProxy - Secured GET /
+2025-07-19 20:36:54 DEBUG o.s.web.servlet.DispatcherServlet - GET "/", parameters={}
+2025-07-19 20:36:54 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ParameterizableViewController [view="home"]
+2025-07-19 20:36:54 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Opening JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:36:54 DEBUG o.s.w.s.v.ContentNegotiatingViewResolver - Selected 'text/html' given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8, application/signed-exchange;v=b3;q=0.7]
+2025-07-19 20:36:54 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Closing JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:36:54 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-19 20:36:54 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:36:54 DEBUG o.s.security.web.FilterChainProxy - Securing GET /images/Taco.png
+2025-07-19 20:36:54 DEBUG o.s.security.web.FilterChainProxy - Secured GET /images/Taco.png
+2025-07-19 20:36:54 DEBUG o.s.web.servlet.DispatcherServlet - GET "/images/Taco.png", parameters={}
+2025-07-19 20:36:54 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-19 20:36:54 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Opening JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:36:54 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Closing JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:36:54 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-19 20:36:54 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:36:54 DEBUG o.s.security.web.FilterChainProxy - Securing GET /favicon.ico
+2025-07-19 20:36:54 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=rrWFiUrOYtXlmBGUKWQJQ6C_oEfVry2xnD4Yy5GH6-g%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=cgib3tkanZoUoXIvnr9RZZpXyrwJ0nouL_bVXpt3-Zc
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=rrWFiUrOYtXlmBGUKWQJQ6C_oEfVry2xnD4Yy5GH6-g%3D
+2025-07-19 20:36:55 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:55 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=ybuOb2iy0jIQ1RSaqObL0pIo85U2ICeOw1ZYqI8f48s%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=FldvamJy-VBD2sDkY26haCRwi7YY7NyB3oS971MXh2Q
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=ybuOb2iy0jIQ1RSaqObL0pIo85U2ICeOw1ZYqI8f48s%3D
+2025-07-19 20:36:55 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:55 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=taY8LcUBMReiBjrP4XYLv-Bt0f37hxDhA-NSWWtUalo%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=PQrSN75KOvU8FdeUi42bCdXqcAFXiKQltdXk15CD9Zk
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=taY8LcUBMReiBjrP4XYLv-Bt0f37hxDhA-NSWWtUalo%3D
+2025-07-19 20:36:55 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:55 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=QzPLlGUXrguexY_ShwEF_dg6zZODWUndKyw25IHN4-Q%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=oqAKJg1Aji-TxMT3EApfy7uZUiRj5C7d5Mm69eE5FtY
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=QzPLlGUXrguexY_ShwEF_dg6zZODWUndKyw25IHN4-Q%3D
+2025-07-19 20:36:55 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:55 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=2NdVftnt-YjMWJhyfWHOjn1o4VIlMYrL3xkG7I2a2NE%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=cOlX0eGEperBfBnfFGtIdVlgo2cKJ32_--ySSeZJlMs
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=2NdVftnt-YjMWJhyfWHOjn1o4VIlMYrL3xkG7I2a2NE%3D
+2025-07-19 20:36:55 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:55 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=p7znzof1JFIJNpBk5vQA0CadnQ5Ev9P9LDgvVUBkRGg%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=XDIAKy6CR58e9yZ750CPjmIPNUwAXr8yOhiDt6qsGJY
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=p7znzof1JFIJNpBk5vQA0CadnQ5Ev9P9LDgvVUBkRGg%3D
+2025-07-19 20:36:55 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:55 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:36:55 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:36:55 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=fZXY1el25s_gr3Ouq7GG4P0sJ5n3QoaCFk4ak3SkFHE%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=sx-vkY4vK5WWV8N73Sd3_pk89TX8IyBjNSe-qxHr0WE
+2025-07-19 20:36:56 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@22e7962b: (connection has passed maxLifetime)
+2025-07-19 20:36:56 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (1b5da3ea-601c-4189-820e-4ad669ebe193)
+2025-07-19 20:36:56 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (1b5da3ea-601c-4189-820e-4ad669ebe193)
+2025-07-19 20:36:56 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@40e235b3
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=fZXY1el25s_gr3Ouq7GG4P0sJ5n3QoaCFk4ak3SkFHE%3D
+2025-07-19 20:36:56 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:56 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=7OX6FOBmvz5jptX5h6D91ZWOwOVdmXEpuLRO1qL4wC0%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=CS2SWk7VjxEZ-tdPl0d3UIKu-X2dD8C7fRvOLQgXGgw
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=7OX6FOBmvz5jptX5h6D91ZWOwOVdmXEpuLRO1qL4wC0%3D
+2025-07-19 20:36:56 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:56 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=zxCgYgXP5kXNbJ6DklaNKgXfklIzX8p4ZK_SLgendy8%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=t9J_8qJW1sk6F-B_z9Bf9eOa79zGH0ODYcOxQv2e9AI
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=zxCgYgXP5kXNbJ6DklaNKgXfklIzX8p4ZK_SLgendy8%3D
+2025-07-19 20:36:56 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:56 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=2ap507NytEBFFYm5fDm3M0zzBK-6LVJP9sePxacY1y8%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=pJyCR2PUbETcTwoTw8B_UUjp7V508gpjL8wYgTkPKY0
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=2ap507NytEBFFYm5fDm3M0zzBK-6LVJP9sePxacY1y8%3D
+2025-07-19 20:36:56 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:56 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=_jSIuLg0Ucxzr6h865cqjStJe03vAC-t9HD8pZect8w%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=_daSXfXEqJGAJBXGhl9nAa0S3zzZIVKgvHALu9u2aC4
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=_jSIuLg0Ucxzr6h865cqjStJe03vAC-t9HD8pZect8w%3D
+2025-07-19 20:36:56 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:56 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=fRcCDX0nq_LnyDYQbvuXOT5SWm34kSMBq7Gz_74zwJ0%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=I3BX0ChxKcf2dxdKCiQxnzVY_unImqp1dsK892fbeC8
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=fRcCDX0nq_LnyDYQbvuXOT5SWm34kSMBq7Gz_74zwJ0%3D
+2025-07-19 20:36:56 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:56 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=HaI5-xmq5X50buJ1aILzCrm7eSC7QffOOdZoHcFtVbA%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=WiuM_iStpPAPWT7FRuMAf_fgsG63PvGF3jbMJl-ZcAk
+2025-07-19 20:36:56 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=HaI5-xmq5X50buJ1aILzCrm7eSC7QffOOdZoHcFtVbA%3D
+2025-07-19 20:36:56 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:36:56 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:36:56 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:37:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:37:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:37:01 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=HaI5-xmq5X50buJ1aILzCrm7eSC7QffOOdZoHcFtVbA%3D
+2025-07-19 20:37:01 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:37:01 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:37:01 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=f6abye4CeZsMVQxYcTtw1uZFyMN4qrhPll-kAp9oGUs%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=g4YoT3ZyTnY_dP610Bg_qesFTj7Vwtu5xHuA9xBVsX0
+2025-07-19 20:37:01 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=f6abye4CeZsMVQxYcTtw1uZFyMN4qrhPll-kAp9oGUs%3D
+2025-07-19 20:37:01 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:37:01 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:37:01 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:37:02 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:37:02 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=JQPnJ5_6XWBaCtxlVLbRhCO6LWomfx8DXghvQrlR0b0%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=XbHn83HqfpNeHPt4BEu9OXREpFREEC1vd-Tmbl7bzdM
+2025-07-19 20:37:02 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=JQPnJ5_6XWBaCtxlVLbRhCO6LWomfx8DXghvQrlR0b0%3D
+2025-07-19 20:37:02 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:37:02 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:37:02 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:37:02 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:37:02 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=2FstNy8Lt-XJWaQoXOBSm_Uil2eMSRXJsPmkSWNCUAg%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=uSKwPdsCyhmIAtOsWHwYeAJQ0eqEHH-JMN06_SkrYgU
+2025-07-19 20:37:02 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=2FstNy8Lt-XJWaQoXOBSm_Uil2eMSRXJsPmkSWNCUAg%3D
+2025-07-19 20:37:02 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:37:02 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:37:02 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:37:02 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:37:02 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=mSeZfm0RzjPJKLwNw1ZR5VA8QHuYsNKCuRLx33Iu9ms%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=VAOGeHXChTYpAGdbxa4hM6p_MOAdfxMrsW33O1IvhEM
+2025-07-19 20:37:02 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=mSeZfm0RzjPJKLwNw1ZR5VA8QHuYsNKCuRLx33Iu9ms%3D
+2025-07-19 20:37:02 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:37:02 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:37:02 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:37:02 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:37:02 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=CHncFP-5hD__yR1f_0qLc0rZlskwOqTTnOHBtvQpdq0%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=dJ1g1RX1ehZNwNx3QKT60MTLqDwydpvK99WJVwAUEI0
+2025-07-19 20:37:02 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=CHncFP-5hD__yR1f_0qLc0rZlskwOqTTnOHBtvQpdq0%3D
+2025-07-19 20:37:02 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:37:02 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:37:02 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:37:02 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:37:02 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=kRT3zV7ROgt9EP6otPzWRmGb6R8HT8VVDNq6tCG06DU%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=FMUhMFb8iTlDAVX9OAPlUzaK_RWVR_3GBGgsmyMOEIc
+2025-07-19 20:37:02 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=kRT3zV7ROgt9EP6otPzWRmGb6R8HT8VVDNq6tCG06DU%3D
+2025-07-19 20:37:02 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:37:02 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:37:02 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:37:02 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:37:02 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=mjJcSyckHyRpaxXm6in67QHb9Hwux7HKsKsTukR27Ow%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=4kQEmtWMb-4b24wST_7B94i2GDQ-B73ESvjo9mkAcDs
+2025-07-19 20:37:09 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24c25372 is alive
+2025-07-19 20:37:10 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1234ce48 is alive
+2025-07-19 20:37:11 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4c51ffed is alive
+2025-07-19 20:37:24 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4 is alive
+2025-07-19 20:37:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:37:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:37:32 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@53d87ca1 is alive
+2025-07-19 20:37:46 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ca41c1e is alive
+2025-07-19 20:37:47 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46dfe9ba is alive
+2025-07-19 20:37:54 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6186f78a is alive
+2025-07-19 20:38:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:38:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:38:02 DEBUG o.s.security.web.FilterChainProxy - Securing GET /
+2025-07-19 20:38:02 DEBUG o.s.security.web.FilterChainProxy - Secured GET /
+2025-07-19 20:38:02 DEBUG o.s.web.servlet.DispatcherServlet - GET "/", parameters={}
+2025-07-19 20:38:02 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ParameterizableViewController [view="home"]
+2025-07-19 20:38:02 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Opening JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:38:02 DEBUG o.s.w.s.v.ContentNegotiatingViewResolver - Selected 'text/html' given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8, application/signed-exchange;v=b3;q=0.7]
+2025-07-19 20:38:03 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Closing JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:38:03 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-19 20:38:03 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:38:03 DEBUG o.s.security.web.FilterChainProxy - Securing GET /images/Taco.png
+2025-07-19 20:38:03 DEBUG o.s.security.web.FilterChainProxy - Secured GET /images/Taco.png
+2025-07-19 20:38:03 DEBUG o.s.web.servlet.DispatcherServlet - GET "/images/Taco.png", parameters={}
+2025-07-19 20:38:03 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-19 20:38:03 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Opening JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:38:03 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Closing JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:38:03 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-19 20:38:03 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:38:03 DEBUG o.s.security.web.FilterChainProxy - Securing GET /favicon.ico
+2025-07-19 20:38:03 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=MXGjzTqauL0G-tXFLwW1eM9Tk7aZNdl_vH_e9wQvVto%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=rODqj71nZH_x4-N5CxFdwd14_QXDZZ1E7IRay9GKYIU
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=MXGjzTqauL0G-tXFLwW1eM9Tk7aZNdl_vH_e9wQvVto%3D
+2025-07-19 20:38:04 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:04 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=0VdbO-XRUW5-nZx-L-ZojSeg_wJ29wAjGO9YvAEndV0%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=xAWvTnVnuXvRhHhGZGY-sUxQLcp9oR5GoiVxQPd89YQ
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=0VdbO-XRUW5-nZx-L-ZojSeg_wJ29wAjGO9YvAEndV0%3D
+2025-07-19 20:38:04 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:04 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=GbZlspWwi-Y_GsdYJ-rnrtFoYXIT1AuzahIu39SW-48%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=ME7fMtZ08Wl_n7wkVPWJbRdHNSIQaYt5MjMTwAI6Jmg
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=GbZlspWwi-Y_GsdYJ-rnrtFoYXIT1AuzahIu39SW-48%3D
+2025-07-19 20:38:04 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:04 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=jQp1YQEuwi-WF5_OGidXuYZVbXFi2EzMks8ZQU0z7D4%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=qpxK-daGjz8I0TVwEDcJLof56LwxIOCs0sUXmtAYSWc
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=jQp1YQEuwi-WF5_OGidXuYZVbXFi2EzMks8ZQU0z7D4%3D
+2025-07-19 20:38:04 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:04 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=xsCT3KzwT8CEWYCle6x_hS3y_1qgfhsPV_wwLTryUcQ%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=YetpaMvyfWkGiUhx3MsWZHKsr15CactV7_b9t8r4LGM
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=xsCT3KzwT8CEWYCle6x_hS3y_1qgfhsPV_wwLTryUcQ%3D
+2025-07-19 20:38:04 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:04 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=7KAfpROTKUhZ0JTaOGG2JyYbhh-49o5VYmwg3HBF3k0%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=4V3BdDh2DfME4NfyW-5FjxJSdnJ2UtOlWlt0DVbERwg
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=7KAfpROTKUhZ0JTaOGG2JyYbhh-49o5VYmwg3HBF3k0%3D
+2025-07-19 20:38:04 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:04 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:04 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:38:04 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=RKLUS-WP_jJECPC2oKN0CInWR4LOrwsZ8thoj0fB2gI%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=emLPKK2vZhMDRvort1cayMOC9qfVR2v1CAhkRXx0ohI
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=RKLUS-WP_jJECPC2oKN0CInWR4LOrwsZ8thoj0fB2gI%3D
+2025-07-19 20:38:05 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:05 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=5HPcATpT6BsyCi-KdyH7IzI8BGH3sT1VmeXl8uoL_z0%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=uIxAuFWdMjNq7sz2rkCTt_H_n2RTi-rZQQHIdoyY9A8
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=5HPcATpT6BsyCi-KdyH7IzI8BGH3sT1VmeXl8uoL_z0%3D
+2025-07-19 20:38:05 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:05 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=L6FIZRJ-OfJgGmAbMi5u4nSHIIIUeQkUX6eRVrv1_fA%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=7abylSmE0gZH0Zod0LWFs8pE1cKWSz6aahlA-X7PX3k
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=L6FIZRJ-OfJgGmAbMi5u4nSHIIIUeQkUX6eRVrv1_fA%3D
+2025-07-19 20:38:05 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:05 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=StvaJmsFErjDix94VqWiasHLoFXuBY8doxBrcsVpT2Y%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=GFy419ojVNkFcQMgvIo5BygFhsiFqWhK-rQtOmBZY2o
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=StvaJmsFErjDix94VqWiasHLoFXuBY8doxBrcsVpT2Y%3D
+2025-07-19 20:38:05 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:05 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=2zdZ5wIcqXpuGWfwI-h-FlinqoPA67EafDQghNH3-k4%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=DiJsxNHSeDDyWArBMmuQ8-21-4RBXWl4rtzSfLfQ0AU
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=2zdZ5wIcqXpuGWfwI-h-FlinqoPA67EafDQghNH3-k4%3D
+2025-07-19 20:38:05 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:05 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=JTiizqjc9C0UaQEsKhyLPyy9ErSx-9UuyVCQCWjdeYw%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=BuNswIUBEvdi6cI7jPkNP9nDCXaSs9Rocu-rzqYhLsQ
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=JTiizqjc9C0UaQEsKhyLPyy9ErSx-9UuyVCQCWjdeYw%3D
+2025-07-19 20:38:05 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:05 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=Mn5eo5xkraG_uA3590FtTgAlGCGnIhMQuHPZa4QXMnw%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=oqXfkDn3r9Sv1MHso5imwxat7PDMq3UR_G-4qcViNM0
+2025-07-19 20:38:05 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=Mn5eo5xkraG_uA3590FtTgAlGCGnIhMQuHPZa4QXMnw%3D
+2025-07-19 20:38:05 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:38:05 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:38:05 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:38:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:38:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:38:42 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1df3f88 is alive
+2025-07-19 20:38:50 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@40e235b3 is alive
+2025-07-19 20:38:50 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@4c51ffed is alive
+2025-07-19 20:38:55 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@24c25372 is alive
+2025-07-19 20:39:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:39:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:39:03 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1234ce48 is alive
+2025-07-19 20:39:09 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@53d87ca1 is alive
+2025-07-19 20:39:16 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4 is alive
+2025-07-19 20:39:28 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53d87ca1: (connection has passed maxLifetime)
+2025-07-19 20:39:28 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (14a5e84f-29d9-4113-af6c-684b3d513f18)
+2025-07-19 20:39:28 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (14a5e84f-29d9-4113-af6c-684b3d513f18)
+2025-07-19 20:39:28 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@5dc20b84
+2025-07-19 20:39:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:39:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:39:33 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4c51ffed: (connection has passed maxLifetime)
+2025-07-19 20:39:34 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (dca6b6f4-2b1e-44d3-94f0-fa2a79a87370)
+2025-07-19 20:39:34 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (dca6b6f4-2b1e-44d3-94f0-fa2a79a87370)
+2025-07-19 20:39:34 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@675fe52e
+2025-07-19 20:39:36 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46dfe9ba is alive
+2025-07-19 20:39:44 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@7ca41c1e is alive
+2025-07-19 20:39:52 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6186f78a is alive
+2025-07-19 20:40:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:40:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:40:25 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6186f78a: (connection has passed maxLifetime)
+2025-07-19 20:40:25 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (40ffdf9c-80c7-4411-a248-e17ab2a4be00)
+2025-07-19 20:40:25 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (40ffdf9c-80c7-4411-a248-e17ab2a4be00)
+2025-07-19 20:40:25 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@1fbf2a68
+2025-07-19 20:40:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:40:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:40:32 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1df3f88 is alive
+2025-07-19 20:40:32 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@24c25372: (connection has passed maxLifetime)
+2025-07-19 20:40:32 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (d9fa5b17-8552-484b-8a9e-51b0d72e43ce)
+2025-07-19 20:40:32 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (d9fa5b17-8552-484b-8a9e-51b0d72e43ce)
+2025-07-19 20:40:32 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@2f85b890
+2025-07-19 20:40:44 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@40e235b3 is alive
+2025-07-19 20:40:49 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7ca41c1e: (connection has passed maxLifetime)
+2025-07-19 20:40:49 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (bafd7714-4255-4315-aa18-ffd0b2f9537e)
+2025-07-19 20:40:49 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (bafd7714-4255-4315-aa18-ffd0b2f9537e)
+2025-07-19 20:40:49 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@335039d2
+2025-07-19 20:40:56 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1234ce48 is alive
+2025-07-19 20:41:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:41:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:41:08 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4 is alive
+2025-07-19 20:41:08 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5dc20b84 is alive
+2025-07-19 20:41:16 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675fe52e is alive
+2025-07-19 20:41:26 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@46dfe9ba is alive
+2025-07-19 20:41:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:41:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:42:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:42:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:42:07 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1fbf2a68 is alive
+2025-07-19 20:42:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f85b890 is alive
+2025-07-19 20:42:21 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1df3f88 is alive
+2025-07-19 20:42:29 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@335039d2 is alive
+2025-07-19 20:42:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:42:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:42:38 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@40e235b3 is alive
+2025-07-19 20:42:47 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@46dfe9ba: (connection has passed maxLifetime)
+2025-07-19 20:42:47 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (7d1d0fa0-8fe3-4752-96f2-985061bd2bc4)
+2025-07-19 20:42:47 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (7d1d0fa0-8fe3-4752-96f2-985061bd2bc4)
+2025-07-19 20:42:47 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e21763c
+2025-07-19 20:42:49 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5dc20b84 is alive
+2025-07-19 20:42:49 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1234ce48 is alive
+2025-07-19 20:42:58 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675fe52e is alive
+2025-07-19 20:42:59 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4 is alive
+2025-07-19 20:43:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:43:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:43:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:43:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:43:49 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1fbf2a68 is alive
+2025-07-19 20:44:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:44:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:44:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f85b890 is alive
+2025-07-19 20:44:09 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@335039d2 is alive
+2025-07-19 20:44:11 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1df3f88 is alive
+2025-07-19 20:44:29 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5dc20b84 is alive
+2025-07-19 20:44:29 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Closing connection com.mysql.cj.jdbc.ConnectionImpl@26136bf4: (connection has passed maxLifetime)
+2025-07-19 20:44:29 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Attempting to create/setup new connection (0d95c11d-4a9f-4cdf-bf16-6087f0065b9d)
+2025-07-19 20:44:29 DEBUG com.zaxxer.hikari.pool.PoolBase - tacocloud - Established new connection (0d95c11d-4a9f-4cdf-bf16-6087f0065b9d)
+2025-07-19 20:44:29 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Added connection com.mysql.cj.jdbc.ConnectionImpl@552ae39d
+2025-07-19 20:44:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:44:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:44:32 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@40e235b3 is alive
+2025-07-19 20:44:37 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6e21763c is alive
+2025-07-19 20:44:40 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675fe52e is alive
+2025-07-19 20:44:42 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1234ce48 is alive
+2025-07-19 20:45:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:45:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:45:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:45:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:45:31 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1fbf2a68 is alive
+2025-07-19 20:45:48 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@335039d2 is alive
+2025-07-19 20:45:52 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f85b890 is alive
+2025-07-19 20:46:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:46:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:46:01 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1df3f88 is alive
+2025-07-19 20:46:09 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5dc20b84 is alive
+2025-07-19 20:46:23 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675fe52e is alive
+2025-07-19 20:46:24 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@552ae39d is alive
+2025-07-19 20:46:26 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@40e235b3 is alive
+2025-07-19 20:46:26 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6e21763c is alive
+2025-07-19 20:46:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:46:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:46:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1234ce48 is alive
+2025-07-19 20:47:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:47:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:47:07 DEBUG o.s.security.web.FilterChainProxy - Securing GET /
+2025-07-19 20:47:07 DEBUG o.s.security.web.FilterChainProxy - Secured GET /
+2025-07-19 20:47:07 DEBUG o.s.web.servlet.DispatcherServlet - GET "/", parameters={}
+2025-07-19 20:47:07 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ParameterizableViewController [view="home"]
+2025-07-19 20:47:07 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Opening JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:47:07 DEBUG o.s.w.s.v.ContentNegotiatingViewResolver - Selected 'text/html' given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8, application/signed-exchange;v=b3;q=0.7]
+2025-07-19 20:47:07 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Closing JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:47:07 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-19 20:47:07 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:47:07 DEBUG o.s.security.web.FilterChainProxy - Securing GET /images/Taco.png
+2025-07-19 20:47:07 DEBUG o.s.security.web.FilterChainProxy - Secured GET /images/Taco.png
+2025-07-19 20:47:07 DEBUG o.s.web.servlet.DispatcherServlet - GET "/images/Taco.png", parameters={}
+2025-07-19 20:47:07 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-19 20:47:07 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Opening JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:47:07 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Closing JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:47:07 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-19 20:47:07 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:47:07 DEBUG o.s.security.web.FilterChainProxy - Securing GET /favicon.ico
+2025-07-19 20:47:07 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=4VI2pl35dKUoPV3chCKA-5BJSeR_X1VFT_q18fU5mLw%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=9dfd5ToJLxfqdkBMoRY5a79WofbbYa32x4mbHAhT9ic
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=4VI2pl35dKUoPV3chCKA-5BJSeR_X1VFT_q18fU5mLw%3D
+2025-07-19 20:47:08 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:08 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=PLCovahL_zgMSrCOiirpiOo8VkDcoNAwA_RRPjcNu0k%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=5xx3Zf_kXVUPCCXlU3YJbkPoo51h4a_3S0auC2SKvAg
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=PLCovahL_zgMSrCOiirpiOo8VkDcoNAwA_RRPjcNu0k%3D
+2025-07-19 20:47:08 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:08 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=hrSzRIEuTFOFTKs7yRzeSvhZPDTwID6J4ZyPTQ3EZ1k%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=_SRa4fr3IeISjeia9MQgG3iYPyhDIAvR-z1xfeV_Cjg
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=hrSzRIEuTFOFTKs7yRzeSvhZPDTwID6J4ZyPTQ3EZ1k%3D
+2025-07-19 20:47:08 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:08 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=TaCB9Xa9DJBBX0-UfUJtTeEM92GaX47o0yqvTRZHijU%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=OKveS8wH5QPeAcE6I6BIMxCKg6Br13lbD5pEgyh26YM
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=TaCB9Xa9DJBBX0-UfUJtTeEM92GaX47o0yqvTRZHijU%3D
+2025-07-19 20:47:08 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:08 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=jDd4-drEtMg3CUp-KaT08eVi3a_MQ3wd8ylxRqPxKog%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=LMnOdc5hvFxCJTx6y8_57anBl4u-JCXr_HsXVU9ukes
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=jDd4-drEtMg3CUp-KaT08eVi3a_MQ3wd8ylxRqPxKog%3D
+2025-07-19 20:47:08 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:08 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=8eozxFjAd5of6xESOpWdA41uTT6TSJZ56rqOD6v1BFg%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=oNo3Iq4_nnOW_jj-PEbItYblTd7-nmwL3LEHZA1jZFE
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=8eozxFjAd5of6xESOpWdA41uTT6TSJZ56rqOD6v1BFg%3D
+2025-07-19 20:47:08 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:08 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:08 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:47:08 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=WLX5DftJLz2AP5V7K9npNx1-K-HKGIR_hdrjMt1i0Kk%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=AbUi1V-Kq7WpgDs5dsAfHxk_85CMpn51CZy7qkUR7Jg
+2025-07-19 20:47:09 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=WLX5DftJLz2AP5V7K9npNx1-K-HKGIR_hdrjMt1i0Kk%3D
+2025-07-19 20:47:09 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:09 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:09 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:09 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:47:09 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=hf1fhqmI4z_QFeuo7gLjIh0N9Tq3MTs07rrmbSGbqzA%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=kjFt8qXHNLRO95ysuKdg3APCUv4AScOnUKve5-O4rVw
+2025-07-19 20:47:10 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=hf1fhqmI4z_QFeuo7gLjIh0N9Tq3MTs07rrmbSGbqzA%3D
+2025-07-19 20:47:10 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:10 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:10 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:10 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:47:10 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=APY3UHzGSxdLyVqh4KbXE_JNrT-54tnFDGhrmEsKt1c%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=xgKXe8DYJ4DrU_YjM2sAwmNcmTFvXk_FjwDyZRO-FmA
+2025-07-19 20:47:10 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=APY3UHzGSxdLyVqh4KbXE_JNrT-54tnFDGhrmEsKt1c%3D
+2025-07-19 20:47:10 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:10 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:10 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:10 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:47:10 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=8ZRwAaFEKsfjnQnjL0xQ0JX-0--IwKqtK1qXmmopYMo%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=WMvVqHPzvYwe-gN01MzaM9V2yeYkk1g_n7xaHnVYlvo
+2025-07-19 20:47:10 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=8ZRwAaFEKsfjnQnjL0xQ0JX-0--IwKqtK1qXmmopYMo%3D
+2025-07-19 20:47:10 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:10 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:10 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:10 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:47:10 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=R8vdym8JSbSBPTzPIshHF73FxcWiAbZEixgUd3A5RSM%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=IvU04NZ7dIrYT8irvbeBuKA7N08Pj-TzA3m8sbprhDA
+2025-07-19 20:47:10 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=R8vdym8JSbSBPTzPIshHF73FxcWiAbZEixgUd3A5RSM%3D
+2025-07-19 20:47:10 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:10 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:10 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:10 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:47:10 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=_cnKQ0-sSDGOXLkbK4qOkZyZLnvR-CgvDaET9-C7-Fs%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=eQVIW185uXyZWuWICrsFrQvxWiWTp-5B6ijXYJNshno
+2025-07-19 20:47:10 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=_cnKQ0-sSDGOXLkbK4qOkZyZLnvR-CgvDaET9-C7-Fs%3D
+2025-07-19 20:47:10 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:10 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:10 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:10 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:47:10 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=w_SWSWeG_0kDq8TF4Yabe286II2_dEo0GRpMUzycIUA%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=4iqdIp63FYaVVw8gu9AtH9efsfN6PY5UcxFC4k3t8qY
+2025-07-19 20:47:10 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=w_SWSWeG_0kDq8TF4Yabe286II2_dEo0GRpMUzycIUA%3D
+2025-07-19 20:47:10 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:47:10 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:47:10 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:47:13 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1fbf2a68 is alive
+2025-07-19 20:47:28 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@335039d2 is alive
+2025-07-19 20:47:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:47:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:47:38 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f85b890 is alive
+2025-07-19 20:47:50 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5dc20b84 is alive
+2025-07-19 20:47:50 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1df3f88 is alive
+2025-07-19 20:48:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:48:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:48:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675fe52e is alive
+2025-07-19 20:48:16 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6e21763c is alive
+2025-07-19 20:48:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@552ae39d is alive
+2025-07-19 20:48:20 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@40e235b3 is alive
+2025-07-19 20:48:28 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1234ce48 is alive
+2025-07-19 20:48:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:48:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:48:54 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1fbf2a68 is alive
+2025-07-19 20:49:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:49:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:49:08 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@335039d2 is alive
+2025-07-19 20:49:25 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f85b890 is alive
+2025-07-19 20:49:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:49:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:49:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5dc20b84 is alive
+2025-07-19 20:49:40 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1df3f88 is alive
+2025-07-19 20:49:47 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675fe52e is alive
+2025-07-19 20:50:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:50:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:50:06 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6e21763c is alive
+2025-07-19 20:50:14 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@40e235b3 is alive
+2025-07-19 20:50:15 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@552ae39d is alive
+2025-07-19 20:50:21 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1234ce48 is alive
+2025-07-19 20:50:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:50:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:50:36 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1fbf2a68 is alive
+2025-07-19 20:50:47 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@335039d2 is alive
+2025-07-19 20:51:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:51:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:51:11 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5dc20b84 is alive
+2025-07-19 20:51:11 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f85b890 is alive
+2025-07-19 20:51:29 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675fe52e is alive
+2025-07-19 20:51:29 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1df3f88 is alive
+2025-07-19 20:51:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:51:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:51:56 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6e21763c is alive
+2025-07-19 20:52:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:52:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:52:08 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@40e235b3 is alive
+2025-07-19 20:52:10 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@552ae39d is alive
+2025-07-19 20:52:14 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1234ce48 is alive
+2025-07-19 20:52:18 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1fbf2a68 is alive
+2025-07-19 20:52:27 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@335039d2 is alive
+2025-07-19 20:52:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:52:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:52:51 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5dc20b84 is alive
+2025-07-19 20:52:57 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f85b890 is alive
+2025-07-19 20:53:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:53:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:53:11 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675fe52e is alive
+2025-07-19 20:53:19 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1df3f88 is alive
+2025-07-19 20:53:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:53:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:53:45 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6e21763c is alive
+2025-07-19 20:54:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1fbf2a68 is alive
+2025-07-19 20:54:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:54:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:54:02 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@40e235b3 is alive
+2025-07-19 20:54:05 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@552ae39d is alive
+2025-07-19 20:54:07 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@335039d2 is alive
+2025-07-19 20:54:07 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1234ce48 is alive
+2025-07-19 20:54:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:54:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:54:31 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5dc20b84 is alive
+2025-07-19 20:54:44 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f85b890 is alive
+2025-07-19 20:54:54 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675fe52e is alive
+2025-07-19 20:55:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:55:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:55:09 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1df3f88 is alive
+2025-07-19 20:55:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:55:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:55:35 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@6e21763c is alive
+2025-07-19 20:55:42 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1fbf2a68 is alive
+2025-07-19 20:55:46 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@335039d2 is alive
+2025-07-19 20:55:56 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@40e235b3 is alive
+2025-07-19 20:56:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1234ce48 is alive
+2025-07-19 20:56:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@552ae39d is alive
+2025-07-19 20:56:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:56:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:56:12 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@5dc20b84 is alive
+2025-07-19 20:56:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:56:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:56:30 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@2f85b890 is alive
+2025-07-19 20:56:36 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@675fe52e is alive
+2025-07-19 20:56:43 DEBUG o.s.security.web.FilterChainProxy - Securing GET /
+2025-07-19 20:56:43 DEBUG o.s.security.web.FilterChainProxy - Secured GET /
+2025-07-19 20:56:43 DEBUG o.s.web.servlet.DispatcherServlet - GET "/", parameters={}
+2025-07-19 20:56:43 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ParameterizableViewController [view="home"]
+2025-07-19 20:56:43 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Opening JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:56:43 DEBUG o.s.w.s.v.ContentNegotiatingViewResolver - Selected 'text/html' given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8, application/signed-exchange;v=b3;q=0.7]
+2025-07-19 20:56:43 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Closing JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:56:43 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-19 20:56:43 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:56:43 DEBUG o.s.security.web.FilterChainProxy - Securing GET /images/Taco.png
+2025-07-19 20:56:43 DEBUG o.s.security.web.FilterChainProxy - Secured GET /images/Taco.png
+2025-07-19 20:56:43 DEBUG o.s.web.servlet.DispatcherServlet - GET "/images/Taco.png", parameters={}
+2025-07-19 20:56:43 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-07-19 20:56:43 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Opening JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:56:43 DEBUG o.s.o.j.s.OpenEntityManagerInViewInterceptor - Closing JPA EntityManager in OpenEntityManagerInViewInterceptor
+2025-07-19 20:56:43 DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+2025-07-19 20:56:43 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:56:43 DEBUG o.s.security.web.FilterChainProxy - Securing GET /favicon.ico
+2025-07-19 20:56:43 DEBUG o.s.s.w.a.AnonymousAuthenticationFilter - Set SecurityContextHolder to anonymous SecurityContext
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=bWo0R_-8YfROWxM3noVAD_kfzmTI221-FofAZYtorLo%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=gfHb6Xr50JPlqm026RBoQc-ADGvzh33daVoe8fN7USA
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=bWo0R_-8YfROWxM3noVAD_kfzmTI221-FofAZYtorLo%3D
+2025-07-19 20:56:45 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:45 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=PbbHhiUU0QYG3fCwxy8X13TzGnOg040GUk1KVxj8H1o%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=JHiiFoVTaX2JhksfU74XYG0NxiW3aMeOzo-EsA9Agck
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=PbbHhiUU0QYG3fCwxy8X13TzGnOg040GUk1KVxj8H1o%3D
+2025-07-19 20:56:45 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:45 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=G8xzS4RFE-5rKYOzIvoE9JmTxvTJKYVWYw48Ifu2PaY%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=P3r13no6atBiLI74-GOKhnqzCwPdXMdNKj0ojmSaOQY
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=G8xzS4RFE-5rKYOzIvoE9JmTxvTJKYVWYw48Ifu2PaY%3D
+2025-07-19 20:56:45 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:45 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=JWwyYcCU636Mk4d5qdz0ilKjLVM2NJ-SrrRjsgHqC9I%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=WhH-o9FFbBkdtpz6lTZ-F9zQgfRUQxGmZ_eGb5HuoY4
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=JWwyYcCU636Mk4d5qdz0ilKjLVM2NJ-SrrRjsgHqC9I%3D
+2025-07-19 20:56:45 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:45 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=il2g73upnfagbb4IjDs3m9mLrlEysdpFZD7iwAoxc_Y%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=jZGSoYa7Kx8D40QEwZepY6iHIvOLwmw_m-J6TjHPQqI
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=il2g73upnfagbb4IjDs3m9mLrlEysdpFZD7iwAoxc_Y%3D
+2025-07-19 20:56:45 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:45 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=M4VGQ-eBkWjUZy9DkCALKn65C4IJd_QvQZWM0dLnLC4%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=YykDu5TpAmaEdUBJKYHc8KBDIZCOkW0FrQQt6QRgv-s
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=M4VGQ-eBkWjUZy9DkCALKn65C4IJd_QvQZWM0dLnLC4%3D
+2025-07-19 20:56:45 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:45 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:45 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:56:45 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=qUJxbckZ1KLjp-Ea0AVZEZzJBn-LjwGt4rjHtVTjX9o%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=LoppWtsoB2a8e4MBidC7qstyc2t0BnAwLp_jDUMHFaU
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=qUJxbckZ1KLjp-Ea0AVZEZzJBn-LjwGt4rjHtVTjX9o%3D
+2025-07-19 20:56:46 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:46 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=8JA1XKC8uqYeXT58s7fValEw82pCbDEEY6YDsaNJ3tk%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=ktcJ8J-Lz1TYRbGLYpYdYveEQnYpSijhp0erg5QHeFc
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=8JA1XKC8uqYeXT58s7fValEw82pCbDEEY6YDsaNJ3tk%3D
+2025-07-19 20:56:46 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:46 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=S5OEPCeTPCFhyQiVYCLYm1bFKwA0KSekFqpAUZdP080%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=-6AkU-yGRAZwYNaYoF31Zme58Vqewv2r2pnmESLi-P8
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=S5OEPCeTPCFhyQiVYCLYm1bFKwA0KSekFqpAUZdP080%3D
+2025-07-19 20:56:46 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:46 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=hTBJI6zb3gxPDG-_PoD_FI_5A_M9tTACE6CDSMq7kJU%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=LaPemhLASXJcYHjmmJ6_eiVnrmA-JkfCrRoAeFyjRLc
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=hTBJI6zb3gxPDG-_PoD_FI_5A_M9tTACE6CDSMq7kJU%3D
+2025-07-19 20:56:46 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:46 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=JNkq8KuOkIMcq3ORLw2isJUPm2JcuYfRb8LHNAdQo-M%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=9ICAV_rp9gwzK4WMnJTF31dFEDyukvdiC6bvhXncHPU
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=JNkq8KuOkIMcq3ORLw2isJUPm2JcuYfRb8LHNAdQo-M%3D
+2025-07-19 20:56:46 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:46 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=YGK54X8kU4nAPfUMtVwR0lvVhdAQ-VF8uX5lLeV71Jw%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=bSjjApRdlLQhkc9B6ftENPsd8s8-13a979RwoyvbaW0
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=YGK54X8kU4nAPfUMtVwR0lvVhdAQ-VF8uX5lLeV71Jw%3D
+2025-07-19 20:56:46 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:46 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /oauth2/authorization/client2?error
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to http://localhost:8082/oauth2/authorize?response_type=code&client_id=client2&scope=writeIngredients%20deleteIngredients%20readOrders%20writeOrders%20deleteOrders%20readTacos%20writeTacos%20openid&state=fboiIcnAJWfMnk5kO0yN1nnwvsJLk6x3SXwGeHMlwXc%3D&redirect_uri=http://localhost:8081/login/oauth2/code/client2&nonce=QZn9r0L9dROVV2pmsDpXkkqNXI1WbzOIwrqK0YOE4Hc
+2025-07-19 20:56:46 DEBUG o.s.security.web.FilterChainProxy - Securing GET /login/oauth2/code/client2?error=invalid_scope&error_description=OpenID%20Connect%201.0%20authentication%20requests%20are%20restricted.&error_uri=https%3A%2F%2Fdatatracker.ietf.org%2Fdoc%2Fhtml%2Frfc6749%23section-4.1.2.1&state=fboiIcnAJWfMnk5kO0yN1nnwvsJLk6x3SXwGeHMlwXc%3D
+2025-07-19 20:56:46 DEBUG o.s.s.authentication.ProviderManager - Authentication failed with provider OidcAuthorizationCodeAuthenticationProvider since [invalid_scope] OpenID Connect 1.0 authentication requests are restricted.
+2025-07-19 20:56:46 DEBUG o.s.s.a.DefaultAuthenticationEventPublisher - No event was found for the exception org.springframework.security.oauth2.core.OAuth2AuthenticationException
+2025-07-19 20:56:46 DEBUG o.s.s.web.DefaultRedirectStrategy - Redirecting to /oauth2/authorization/client2?error
+2025-07-19 20:56:58 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1df3f88 is alive
+2025-07-19 20:57:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-07-19 20:57:00 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-07-19 20:57:24 DEBUG com.zaxxer.hikari.pool.HikariPool - tacocloud - keepalive: connection com.mysql.cj.jdbc.ConnectionImpl@1fbf2a68 is alive

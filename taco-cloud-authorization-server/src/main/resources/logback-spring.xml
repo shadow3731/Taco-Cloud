@@ -1,6 +1,5 @@
 <configuration>
 
-  <!-- Console appender: DEBUG/INFO and above -->
   <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
     <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
       <level>DEBUG</level>
@@ -10,7 +9,6 @@
     </encoder>
   </appender>
 
-  <!-- File appender: WARN and above, overwrite on each start -->
   <appender name="FILE" class="ch.qos.logback.core.FileAppender">
     <file>taco-cloud-authorization-server/logs/auth-server-app.log</file>
     <append>false</append>
@@ -22,12 +20,11 @@
     </encoder>
   </appender>
   
-  <logger name="org.springframework.security" level="DEBUG"/>
-  <logger name="org.springframework.web" level="DEBUG"/>
+  <logger name="org.springframework.security" level="TRACE"/>
+  <logger name="org.springframework.web" level="TRACE"/>
   <logger name="org.springframework.security.oauth2" level="DEBUG"/>
 
-  <!-- Root logger: set to DEBUG to capture both DEBUG and WARN -->
-  <root level="DEBUG">
+  <root level="TRACE">
     <appender-ref ref="CONSOLE" />
     <appender-ref ref="FILE" />
   </root>
