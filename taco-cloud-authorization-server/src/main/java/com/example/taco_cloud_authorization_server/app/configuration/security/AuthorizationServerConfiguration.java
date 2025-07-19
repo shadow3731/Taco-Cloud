@@ -16,9 +16,6 @@ import org.springframework.lang.Nullable;
 import org.springframework.security.config.Customizer;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
-import org.springframework.security.core.userdetails.UserDetailsService;
-import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
-import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.oauth2.server.authorization.config.annotation.web.configuration.OAuth2AuthorizationServerConfiguration;
 import org.springframework.security.oauth2.server.authorization.config.annotation.web.configurers.OAuth2AuthorizationServerConfigurer;
 import org.springframework.security.oauth2.server.authorization.settings.AuthorizationServerSettings;
@@ -32,11 +29,11 @@ import org.springframework.security.oauth2.server.authorization.client.Registere
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.LoginUrlAuthenticationEntryPoint;
 import org.springframework.security.web.util.matcher.MediaTypeRequestMatcher;
+import org.springframework.security.web.util.matcher.RequestMatcher;
 
 import com.example.taco_cloud_authorization_server.app.common.Urls;
 import com.example.taco_cloud_authorization_server.app.model.Client;
 import com.example.taco_cloud_authorization_server.app.repository.ClientRepository;
-import com.example.taco_cloud_authorization_server.app.repository.UserRepository;
 import com.nimbusds.jose.jwk.JWKSet;
 import com.nimbusds.jose.jwk.RSAKey;
 import com.nimbusds.jose.jwk.source.ImmutableJWKSet;
@@ -49,29 +46,36 @@ public class AuthorizationServerConfiguration {
     @Bean
     @Order(1)
     SecurityFilterChain authServerFilterChain(HttpSecurity http) throws Exception {
-        OAuth2AuthorizationServerConfigurer configurer = OAuth2AuthorizationServerConfigurer.authorizationServer();
+        //OAuth2AuthorizationServerConfigurer configurer = OAuth2AuthorizationServerConfigurer.authorizationServer();
         /* configurer.authorizationEndpoint(auth -> auth
             .consentPage(null)
         ); */
-
-        return http
+        /* return http
             .securityMatcher(configurer.getEndpointsMatcher())
-            /* .with(configurer, authServer -> authServer
+            .with(configurer, authServer -> authServer
                 .oidc(Customizer.withDefaults())    // Enbale OpenID Connect 1.0
-            ) */
-            .with(configurer, Customizer.withDefaults())
-            .authorizeHttpRequests(auth -> auth
-                //.requestMatchers("/" + Urls.LOGIN.get(), "/" + Urls.REGISTER.get(), "/css/**", "/jss/**", "/images/**").permitAll()    
+            )
+            .authorizeHttpRequests(auth -> auth   
                 .anyRequest().authenticated()
             )
-            .formLogin(Customizer.withDefaults())
             .exceptionHandling(e -> e // Redirect if failed login
                 .defaultAuthenticationEntryPointFor(
                     new LoginUrlAuthenticationEntryPoint("/" + Urls.LOGIN.get()), 
                     new MediaTypeRequestMatcher(MediaType.TEXT_HTML)
                 )
             )
-            .build();
+            .build(); */
+
+        OAuth2AuthorizationServerConfigurer configurer = new OAuth2AuthorizationServerConfigurer(); 
+        RequestMatcher endpointsMatcher = configurer.getEndpointsMatcher();
+        http
+            .securityMatcher(endpointsMatcher)
+            .authorizeHttpRequests(auth -> auth.anyRequest().authenticated())
+            .csrf(csrf -> csrf.ignoringRequestMatchers(endpointsMatcher))
+            .formLogin(Customizer.withDefaults())
+            .with(configurer, Customizer.withDefaults());
+
+        return http.build();
     }
 
     @Bean
@@ -151,14 +155,4 @@ public class AuthorizationServerConfiguration {
     AuthorizationServerSettings authorizationServerSettings() {
         return AuthorizationServerSettings.builder().build();
     }
-
-    /* @Bean
-    UserDetailsService userDetailsService(UserRepository userRepo) {
-        return username -> userRepo.findByUsername(username).get();
-    }
-
-    @Bean
-    PasswordEncoder passwordEncoder() {
-        return new BCryptPasswordEncoder();
-    } */
 }

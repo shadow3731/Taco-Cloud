@@ -17,7 +17,7 @@ import com.example.taco_cloud_authorization_server.app.repository.UserRepository
 @Configuration
 @EnableWebSecurity
 public class SecurityConfiguration {
-    @Bean
+    /* @Bean
     @Order(2)
     SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
         return http.
@@ -27,7 +27,7 @@ public class SecurityConfiguration {
             )
             .formLogin(Customizer.withDefaults())
             .build();
-    }
+    } */
 
     @Bean
     UserDetailsService userDetailsService(UserRepository userRepo) {
