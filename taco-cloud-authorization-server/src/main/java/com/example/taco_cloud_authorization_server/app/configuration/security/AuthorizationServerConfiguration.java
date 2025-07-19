@@ -46,6 +46,7 @@ public class AuthorizationServerConfiguration {
     @Order(1)
     SecurityFilterChain authServerSecurityFilterChain(HttpSecurity http) throws Exception {
         OAuth2AuthorizationServerConfigurer configurer = OAuth2AuthorizationServerConfigurer.authorizationServer();
+        configurer.authorizationEndpoint(_ -> {});
 
         return http
             .securityMatcher(configurer.getEndpointsMatcher())
